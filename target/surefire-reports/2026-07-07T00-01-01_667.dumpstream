@@ -1,0 +1,5 @@
+# Created at 2026-07-07T00:01:03.642
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Practice\Interview_Workspace\InterviewPrepration_Java_AWS\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
